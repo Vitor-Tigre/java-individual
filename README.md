@@ -1,2 +1,2 @@
 # java-individual
-Repositório privado com meu JAR individual.
+Repositório com meu JAR individual de trabalho de faculdade do segundo semestre.
